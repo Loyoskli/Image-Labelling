@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/Flower_Labeling
+train: images
+val: images
+nc: 5
+names: ['daisy', 'dandelion', 'roses', 'sunflowers', 'tulips']
